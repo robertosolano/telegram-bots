@@ -1,5 +1,6 @@
 # Telegram Bots Resources
-![My Image](./images/Telegram-banner.jpg)
+![Telegram Banner](./Telegram-banner.jpg)
+
 Curated list of resources to create your own telegram bot for an specific use case or to use another epic telegram bot that somebody has already created. 🚀
 
 ## Table of Contents
@@ -20,11 +21,11 @@ git clone https://github.com/robertosolano/telegram-bots.git
 ```
 ## Resources
 
-| Resource Name | Description | Link |
+| Name | Description | Link |
 |---------------|-------------|------|
-| ExampleBot    | A versatile bot for multiple purposes | [GitHub](https://github.com/examplebot) |
-| BotAPI        | Comprehensive API documentation for Telegram bots | [Telegram](https://core.telegram.org/bots/api) |
-| BotFramework  | A powerful framework for building Telegram bots | [BotFramework](https://botframework.com/) |
+| Bookmark Bot | Telegram bot to bookmark URLs for future reading | [GitHub](https://github.com/xonixx/bookmark-telegram-bot) |
+| SaveDay        | A bot that helps you quickly save, search and summarize your favorite content | [SaveDay Website](https://www.save.day/telegram-bot) |
+| Bots List  | A powerful list of useful Telegram bots | [12 Useful Bots to Get the Most Out of Telegram](https://www.maketecheasier.com/useful-bots-for-telegram/) |
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have any resources to add or improvements to suggest.
